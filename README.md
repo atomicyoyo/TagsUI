@@ -3,5 +3,5 @@ This tags plugin is different from ANY KIND of tags plugin out there. Even compa
 # Credits
 Credits to the owner of Divine network. The tags names are from Divine network!
 # To Do
-[] Implement permissions
-[] Implement command aliases 
+[ ] Implement permissions
+[ ] Implement command aliases 
