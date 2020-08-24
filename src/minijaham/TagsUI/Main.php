@@ -7,17 +7,8 @@ use pocketmine\Server;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\command\ConsoleCommandSender;
-use pocketmine\item\enchantment\Enchantment;
-use pocketmine\item\enchantment\EnchantmentInstance;
-use pocketmine\item\Item;
-use pocketmine\item\Durable;
 use pocketmine\plugin\Plugin;
 use pocketmine\plugin\PluginBase;
-use pocketmine\nbt\NBT;
-use pocketmine\nbt\tag\ByteTag;
-use pocketmine\nbt\tag\StringTag;
-use pocketmine\nbt\tag\IntTag;
-use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\utils\Config;
 use pocketmine\utils\TextFormat;
 
